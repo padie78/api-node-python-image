@@ -5,7 +5,7 @@ This project is a backend API built in **Node.js** that allows uploading an imag
 ---
 
 ## Project Structure
-
+```yaml
 project_structure: |
   node-python-image-api/
   ├── src/
